@@ -1,7 +1,7 @@
 variable "db_password" {
   description = "Password for Redshift master DB user"
   type        = string
-  default     = "Password123"
+  default     = "" #removed password before pushing to GH
 }
 
 variable "s3_bucket" {
