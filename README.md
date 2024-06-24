@@ -41,6 +41,6 @@ The data is loaded Google Data Studio for data visualization purposes, depicting
 
 ![Visualization](images/data_studio.png)
 
-The link to a live dashboard could be found in the following link: https://lookerstudio.google.com/s/m0QD3nxPaos
+The link to a live dashboard could be found in the following link: https://lookerstudio.google.com/reporting/116b4650-1355-463f-8435-fac91197eac8
 
 The data pipeline has been paused for the purposes of preventing extra costs and using compute resources as the idea of this project was to get hands-on experience with data pipelines and its associated technologies. Therfore the data that is seen right now is static data. In actuality the data is to be updated every day after midnight using Airflow.
